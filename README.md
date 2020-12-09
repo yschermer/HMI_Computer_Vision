@@ -1,0 +1,1 @@
+Dataset used for training the HAAR classifier is the CBCL Face Database: http://cbcl.mit.edu/software-datasets/FaceData2.html
